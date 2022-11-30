@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react-native
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me via gmail emmanueljakeokeowo@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love music and makes sounds/beats at free time
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
