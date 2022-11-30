@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Helper Chat Application.
 - 🌱 I’m currently learning react-native
 - 👯 I’m looking to collaborate on Github
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me via gmail emmanueljakeokeowo@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love music and makes sounds/beats at free time
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
