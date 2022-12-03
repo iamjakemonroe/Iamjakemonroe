@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me via gmail emmanueljakeokeowo@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I love music and make sounds/beats at free time
+- ⚡ Fun fact: I love music and create sounds/beats at free time
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
