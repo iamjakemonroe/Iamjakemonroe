@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a Helper Chat Application.
-- 🌱 I’m currently learning react-native
+<!-- - 🔭 I’m currently working on a Helper Chat Application.
+- 🌱 I’m currently learning react-native -->
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me via gmail emmanueljakeokeowo@gmail.com
 - 😄 Pronouns: He/His/Him
