@@ -8,7 +8,7 @@
   <a href="https://study.kaivon.app"><img src="assets/chip-study.webp" width="49%" alt="Chip Study, an AI tutor"></a>
   <a href="https://wavee.kaivon.app"><img src="assets/wavee.webp" width="49%" alt="Wavee, music streaming and discovery"></a>
   <a href="https://chip.kaivon.app"><img src="assets/chip-rizz.webp" width="49%" alt="Chip Rizz, an AI texting assistant for adults 18 and over"></a>
-  <a href="https://emmanuel-jake-okeowo.onrender.com"><img src="assets/everveil.webp" width="49%" alt="Everveil, a universe of connected worlds being built in Unity"></a>
+  <a href="https://kaivon.app/#everveil"><img src="assets/everveil.webp" width="49%" alt="Everveil, real cities you step into and share, being built in Unity"></a>
 </p>
 
 <p align="center">
